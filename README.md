@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Sufyan Wael</h1>
 
-<!--
-**SufyanWael/SufyanWael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 <b>Full Stack Developer</b><br>
+  ⚡ Passionate about <b>Data Science</b> and building efficient solutions
+</p>
 
-Here are some ideas to get you started:
+<h2>🚀 About Me</h2>
+<ul>
+  <li>🔹 Skilled in <b>Python</b> & <b>SQL</b></li>
+  <li>🔹 Experienced in <b>Full Stack Development</b></li>
+  <li>🔹 Interested in <b>Data Analysis & Machine Learning</b></li>
+  <li>🔹 Always learning & exploring new technologies</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🛠️ Tech Stack</h2>
+<ul>
+  <li><b>Languages:</b> Python, JavaScript, SQL</li>
+  <li><b>Frontend:</b> HTML, CSS, Bootstrap, React</li>
+  <li><b>Backend:</b> Node.js, Express</li>
+  <li><b>Database:</b> MySQL, PostgreSQL, MongoDB</li>
+</ul>
+
+<h2>📈 Currently Learning</h2>
+<ul>
+  <li>Advanced <b>Data Science</b> techniques</li>
+  <li>Machine Learning & AI applications</li>
+</ul>
+
+<h2>🌐 Connect with Me</h2>
+<p>
+  <a href="https://github.com/YourUsername" target="_blank">🌟 GitHub</a><br>
+  <a href="https://linkedin.com/in/YourProfile" target="_blank">💼 LinkedIn</a>
+</p>
+
+<hr>
+
+<p align="center">⭐️ From <a href="https://github.com/YourUsername">Sufyan Wael</a></p>
+<img width="1905" height="797" alt="image" src="https://github.com/user-attachments/assets/0ea46719-a947-4ea1-84d9-2b24da0933fa" />
+
