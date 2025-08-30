@@ -28,7 +28,7 @@
 
 <h2>🌐 Connect with Me</h2>
 <p>
-  <a href="https://github.com/YourUsername" target="_blank">🌟 GitHub</a><br>
+  <a href="https://github.com/SufyanWael" target="_blank">🌟 GitHub</a><br>
   <a href="https://linkedin.com/in/YourProfile" target="_blank">💼 LinkedIn</a>
 </p>
 
