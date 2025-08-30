@@ -36,5 +36,4 @@
 <hr>
 
 <p align="center">⭐️ From <a href="https://github.com/YourUsername">Sufyan Wael</a></p>
-<img width="1905" height="797" alt="image" src="https://github.com/user-attachments/assets/0ea46719-a947-4ea1-84d9-2b24da0933fa" />
 
