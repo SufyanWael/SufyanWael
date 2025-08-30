@@ -9,7 +9,6 @@
 <ul>
   <li>🔹 Skilled in <b>Python</b> & <b>SQL</b></li>
   <li>🔹 Experienced in <b>Full Stack Development</b></li>
-  <li>🔹 Interested in <b>Data Analysis & Machine Learning</b></li>
   <li>🔹 Always learning & exploring new technologies</li>
 </ul>
 
